@@ -7,7 +7,7 @@ lang: en
 
 ## Meeting Registration
 
-<!--- [Register](https://www.eventbrite.com/e/bioinformatics-and-open-science-skills-conference-2022-tickets-289432679937) to attend BOSS Con 2022. --->
+<!--- [Register](https://registration.bhki.org) to attend BOSS Con 2022. --->
  
  Registration opens on 10 March 2022. 
 
